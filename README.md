@@ -1,10 +1,12 @@
 # netflix-content-strategy-analysis
    Data-driven analysis of Netflix content growth, genre trends, and global production patterns with CAGR-based expansion insights and ML classification.
+   
 
 📌 Project Overview:
 
   This project analyzes 8,800+ Netflix titles to uncover growth patterns, content strategy shifts, rating distribution, and global production trends between 2008–2021.
   The objective was to transform raw content metadata into actionable business insights.
+
   
 
 🛠 Tools & Technologies :
@@ -20,6 +22,7 @@
    5.Scikit-Learn 
    
 
+
 📈 Key Insights:
 
   *Identified ~45% CAGR in movie additions between 2015–2021.
@@ -33,6 +36,7 @@
   *Average movie duration clusters around ~100 minutes.
   
 
+ 
 🤖 Machine Learning Component:
 
    Built a Random Forest classifier to predict content type (Movie vs TV Show) using duration and release year features.
@@ -80,9 +84,4 @@
    Build simple predictive models
 
 
-   plt.savefig("images/growth.png")
 
-
-### 📊 Year-wise Growth
-
-![Growth](images/growth.png)
