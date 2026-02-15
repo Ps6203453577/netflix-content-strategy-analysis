@@ -9,11 +9,7 @@ The objective was to transform raw content metadata into actionable business ins
 🛠 Tools & Technologies :
 
 .Python
-
 .Pandas
-
 .NumPy
-
 .Matplotlib & Seaborn
-
 .Scikit-Learn
