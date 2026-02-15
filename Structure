@@ -1,0 +1,8 @@
+netflix-content-strategy-analysis/
+│
+├── netflix_analysis.ipynb
+├── README.md
+├── requirements.txt
+└── images/
+    ├── growth.png
+    ├── genre.png
