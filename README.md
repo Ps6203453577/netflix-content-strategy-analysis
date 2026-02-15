@@ -79,9 +79,9 @@
 
      Quantify growth using CAGR
 
-   Derive business-focused insights
+     Derive business-focused insights
 
-   Build simple predictive models
+     Build simple predictive models
 
 
 
